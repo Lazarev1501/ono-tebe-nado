@@ -144,7 +144,7 @@
 
 .bet-button {
     background:none;
-    border:1px solid #FFFFFF;;
+    border: 1px solid #FFFFFF;;
     cursor: pointer;
     font-family: 'Raleway';
     font-style: normal;
@@ -156,8 +156,6 @@
     padding: 5px;
     
 }
-
-
 
 .lots {
     display: flex;
@@ -254,7 +252,7 @@
     line-height: 120%;
     text-underline-offset: 4px;
     z-index: 1;
-    }
+}
 
 .card__text {
     margin-top: auto;
@@ -295,7 +293,6 @@
     margin-left: 47px;
     justify-content: center;
     align-items: center;
-    
 }
 
 .about__logo-image {
@@ -333,7 +330,6 @@
 }
 
 .footer {
-
     column-gap: 180px;
     display: flex;
     height: 180px;
